@@ -1,6 +1,6 @@
-🚀 Grag GIG - Centralized Career Platform
+    🚀 Grag GIG - Centralized Career Platform
 
-🌟 Overview
+    🌟 Overview
 Grag GIG revolutionizes the way organizations and educational institutions manage career opportunities. Our platform serves as the bridge between employers seeking talent and students/professionals looking for their next career move. Built with modern web technologies and enterprise-grade architecture patterns, this system ensures scalability, maintainability, and exceptional user experience.
 
 ✨ Key Features
@@ -24,13 +24,14 @@ Profile Builder - Create compelling professional profiles with resume upload
 
 
 Design Patterns Implemented
-🔧 Singleton Pattern
-Our application extensively uses the Singleton Design Pattern to ensure:
 
-Configuration Management - Centralized application settings
-Session Management - Consistent user state handling
-API Response Formatting - Uniform response structure
-🔄 API-First Approach
+    🔧 Singleton Pattern
+Our application extensively uses the Singleton Design Pattern to ensure:
+    >Configuration Management - Centralized application settings
+    >Session Management - Consistent user state handling
+    >API Response Formatting - Uniform response structure
+
+    🔄 API-First Approach
 We implemented a clean separation of concerns by decoupling the frontend from the backend:
 
 Frontend - Pure client-side rendering with API consumption
@@ -41,7 +42,8 @@ Scalability - Independent scaling of frontend and backend
 Maintainability - Clear separation of presentation and business logic
 Flexibility - Easy integration with mobile apps or third-party services
 Performance - Optimized API responses and caching strategies
-🛠️ Technology Stack
+
+    🛠️ Technology Stack
 Layer	Technology	Purpose
 Frontend REACT.js TailwindCSS
 Backend	EXPRESS.js
