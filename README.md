@@ -1,22 +1,27 @@
 🚀 Grag GIG - Centralized Career Platform
+
 🌟 Overview
 Grag GIG revolutionizes the way organizations and educational institutions manage career opportunities. Our platform serves as the bridge between employers seeking talent and students/professionals looking for their next career move. Built with modern web technologies and enterprise-grade architecture patterns, this system ensures scalability, maintainability, and exceptional user experience.
 
 ✨ Key Features
-🏢 For Companies & Organizations
+
+    🏢 For Companies & Organizations
 Multi-tier Job Posting System - Create and manage internships, part-time, and full-time positions for undergraduates
 Advanced Applicant Management - Review and filter candidates
 Real-time Analytics Dashboard - Track application metrics and engagement
 Company Profile Management - Showcase company culture and opportunities
-🎓 For Career Guidance Units
+
+    🎓 For Career Guidance Units
 Institutional Dashboard - Monitor student engagement and placement statistics
 Bulk Job Management - Post multiple opportunities across different departments
 Student Progress Tracking - Oversee application status and career development
 Reporting & Analytics - Generate comprehensive placement reports
-👨‍🎓 For Students & Job Seekers
+
+    👨‍🎓 For Students & Job Seekers
 One-Click Applications - Streamlined application process
 Application Tracking - Wish to implement monitor status of all submitted applications
 Profile Builder - Create compelling professional profiles with resume upload
+
 
 Design Patterns Implemented
 🔧 Singleton Pattern
@@ -43,21 +48,23 @@ Backend	EXPRESS.js
 Database	MySQL 8.0+	
 Architecture	RESTful API
 Communication	JSON	Client-server data exchange
-🚀 Getting Started
+
+    🚀 Getting Started
 
 git clone https://github.com/KavishkaVenuka/CSE2032-CCS2032-Project.git
 cd CSE2032-Group-Project
 Configure the database
 
 
-
 # Or configure your web server to point to the project directory
-Access the application
+
+    Access the application
 
 Open your browser and navigate to http://localhost:8000
 Create accounts for different user types to explore features
 
-🎯 Core Functionalities
+    🎯 Core Functionalities
+
 User Management System
 Multi-role Authentication - Students, Companies, Career Units
 Profile Management - Comprehensive user profiles
@@ -70,23 +77,27 @@ Communication System
 Real-time Notifications - Status updates and messages
 Email Integration - Automated email communications
 In-app Messaging - Direct communication between users
-🔒 Security Features
+
+    🔒 Security Features
 Input Validation & Sanitization - Protection against injection attacks
 Password Hashing - Industry-standard password security
 CSRF Protection - Cross-site request forgery prevention
 SQL Injection Prevention - Prepared statements and parameterized queries
-📈 Performance Optimizations
+
+    📈 Performance Optimizations
 Database Query Optimization - Efficient database operations
 Caching Strategy - Reduced server load and faster responses
 Lazy Loading - Optimized resource loading
 Compressed Assets - Minified CSS and JavaScript files
-🧪 Testing
+
+    🧪 Testing
 Our application includes comprehensive testing:
 
 Unit Tests - Individual component testing
 Integration Tests - API endpoint testing
 User Acceptance Testing - End-to-end functionality verification
-🤝 Contributing
+
+    🤝 Contributing
 We welcome contributions from the community! Please follow these steps:
 
 Fork the repository
@@ -94,12 +105,14 @@ Create a feature branch (git checkout -b feature/AmazingFeature)
 Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
-👥 Development Team
+
+    👥 Development Team
 This project was developed as part of the CSE2032 course - Stage 2, demonstrating modern web development practices and software engineering principles associated with Faculty of Computing University of Sri Jayewardenapura - Sri Lanka
 
-🌐 Demo & Documentation
+    🌐 Demo & Documentation
 Live Demo: [Coming Soon]
 API Documentation: [Coming Soon]
 User Manual: Comprehensive guide for all user types
-📞 Support
+
+    📞 Support
 For support, please create an issue in this repository or contact the development team.
